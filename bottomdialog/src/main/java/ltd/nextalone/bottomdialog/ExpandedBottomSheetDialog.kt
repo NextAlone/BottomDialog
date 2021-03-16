@@ -1,4 +1,4 @@
-package com.marcoscg.bottomdialog
+package ltd.nextalone.bottomdialog
 
 import android.content.Context
 import android.os.Bundle

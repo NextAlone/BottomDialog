@@ -1,4 +1,4 @@
-package com.marcoscg.bottomdialog
+package ltd.nextalone.bottomdialog
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -23,14 +23,14 @@ import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.DrawableCompat
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
-import com.marcoscg.bottomdialog.Utils.adjustAlpha
-import com.marcoscg.bottomdialog.Utils.dpToPx
-import com.marcoscg.bottomdialog.Utils.getAttrColor
-import com.marcoscg.bottomdialog.Utils.getTextColor
-import com.marcoscg.bottomdialog.Utils.getTextColorSec
-import com.marcoscg.bottomdialog.Utils.getWindowBackground
-import com.marcoscg.bottomdialog.Utils.isColorLight
-import com.marcoscg.bottomdialog.Utils.orDefault
+import ltd.nextalone.bottomdialog.Utils.adjustAlpha
+import ltd.nextalone.bottomdialog.Utils.dpToPx
+import ltd.nextalone.bottomdialog.Utils.getAttrColor
+import ltd.nextalone.bottomdialog.Utils.getTextColor
+import ltd.nextalone.bottomdialog.Utils.getTextColorSec
+import ltd.nextalone.bottomdialog.Utils.getWindowBackground
+import ltd.nextalone.bottomdialog.Utils.isColorLight
+import ltd.nextalone.bottomdialog.Utils.orDefault
 
 /**
  * Created by @MarcosCGdev on 01/12/2017.

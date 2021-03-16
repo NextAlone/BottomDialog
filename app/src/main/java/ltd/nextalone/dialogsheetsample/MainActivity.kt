@@ -1,4 +1,4 @@
-package com.marcoscg.dialogsheetsample
+package ltd.nextalone.dialogsheetsample
 
 import android.content.Intent
 import android.net.Uri
@@ -8,7 +8,7 @@ import android.view.MenuItem
 import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.marcoscg.bottomdialog.BottomDialog
+import ltd.nextalone.bottomdialog.BottomDialog
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
