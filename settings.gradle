@@ -1,1 +1,2 @@
-include ':app', ':dialogsheet'
+include ':app', ':bottomdialog'
+rootProject.name = 'BottomDialog'
